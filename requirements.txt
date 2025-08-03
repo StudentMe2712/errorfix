@@ -1,0 +1,58 @@
+# OCR и обработка изображений
+pytesseract==0.3.10
+easyocr==1.7.0
+paddlepaddle==2.5.2
+paddleocr==2.7.0
+opencv-python==4.8.1.78
+Pillow==10.0.1
+
+# AI и ML
+langchain==0.1.0
+langchain-community==0.0.10
+sentence-transformers==2.2.2
+chromadb==0.4.18
+
+# Веб-фреймворки
+fastapi==0.104.1
+uvicorn==0.24.0
+streamlit==1.28.1
+
+# HTTP клиенты
+requests==2.31.0
+aiohttp==3.9.1
+
+# Парсинг
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Утилиты
+python-multipart==0.0.6
+pydantic==2.5.0
+numpy==1.24.3
+pandas==2.1.4
+
+# Конфигурация и логирование
+python-dotenv==1.0.0
+loguru==0.7.2
+
+# Тестирование
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
+# Форматирование и линтинг
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0
+
+# Кэширование и асинхронность
+redis==5.0.1
+celery==5.3.4
+
+# Альтернативные LLM API (если Ollama недоступен)
+groq==0.4.2
+openai==1.3.7
+
+# Дополнительные инструменты
+pyautogui==0.9.54
+plyer==2.1.0 
